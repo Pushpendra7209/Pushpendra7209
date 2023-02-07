@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpendra7209&label=Profile%20views&color=0e75b6&style=flat" alt="pushpendra7209" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **ravipushpendrakumar@gmail.com**
 
@@ -12,8 +13,8 @@
 <a href="https://linkedin.com/in/pushpendrakumar1068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpendrakumar1068" height="30" width="40" /></a>
 <a href="https://fb.com/pushpendra7209f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pushpendra7209f" height="30" width="40" /></a>
 <a href="https://instagram.com/pushpendra7209i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpendra7209i" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pushpendra7209h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pushpendra7209h" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pushpendra9209l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushpendra9209l" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pushpendra7209h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushpendra7209h" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pushpendra7209l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushpendra7209l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
